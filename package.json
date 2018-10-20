@@ -1,0 +1,21 @@
+{
+  "name": "tantunibot",
+  "version": "1.0.0",
+  "description": "Official TantuniBot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "infinite-loop": "^0.2.2",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.26.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tb"
+  },
+  "author": "RetriquAz",
+  "license": "ISC"
+}
