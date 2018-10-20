@@ -23,7 +23,7 @@ var il = new InfiniteLoop;
 var helplist = fs.readFileSync('./help.txt', 'utf8');
 bot.helplist = helplist
 var helpmuzik = fs.readFileSync('./helpmuzik.txt', 'utf8');
-bot.helpmuzik = helpmuzil
+bot.helpmuzik = helpmuzik
 
 
 
