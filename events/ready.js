@@ -4,5 +4,5 @@ module.exports = (bot, ready) => {
   console.log('Bot Hazır');
   setInterval(function(){
    channel.send("Kangal Botun Yeniliklerini `kb updates` Yazarak Bulabileceğinizi Biliyor muydunuz?");
-}, 3600000);
+}, 43200000);
 };
