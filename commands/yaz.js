@@ -8,7 +8,8 @@ exports.run = (bot, message, args) => {
         let yazı = args.slice(0).join(" ")
         message.delete()
         message.channel.send(yazı)
-
+        .catch(console.error);
+		
       }
 
      else if (message.author.id === bot.config.ownerId1){
@@ -16,7 +17,8 @@ exports.run = (bot, message, args) => {
        let yazı = args.slice(0).join(" ")
        message.delete()
        message.channel.send(yazı)
-
+       .catch(console.error);
+	   
      }
 
      else {
