@@ -17,6 +17,7 @@ const youtube = new YouTube('AIzaSyAREmi9Z6LGMzgKkQW7O8U_GnHZTn1KVsc');
 var prefix = config.prefix
 var ownerId1 = config.ownerId1
 var ownerId2 = config.ownerId2
+var ownerId3 = config.ownerId3
 var rando_laf = config.rando_laf
 var GOOGLE_API_KEY = config.google
 var il = new InfiniteLoop;
