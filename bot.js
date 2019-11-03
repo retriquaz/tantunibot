@@ -13,7 +13,7 @@ var InfiniteLoop = require('infinite-loop');
 
 
 const queue = new Map();
-const youtube = new YouTube('AIzaSyCSNpiaJo_DICtKfCIgC9q-2RrenTGGv6w');
+const youtube = new YouTube('AIzaSyAhY2EW4fZ2AkNK7ddQM2iI69tPlWI4lQU');
 var prefix = config.prefix
 var ownerId1 = config.ownerId1
 var ownerId2 = config.ownerId2
