@@ -1,6 +1,6 @@
 {
-  "name": "tantuni",
-  "version": "1.0.0",
+  "name": "tantunibot",
+  "version": "2.1.0",
   "description": "Official TantuniBot",
   "main": "bot.js",
   "dependencies": {
