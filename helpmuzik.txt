@@ -1,9 +1,0 @@
-```
-tboynat   : İstediğiniz şarkının ister adını yazarak isterseniz de linkini yazarak listeye ekleyebilirsiniz.
-tbliste   : Sıradaki şarkıların listesini gösterir.
-tbçp      : Şu an ki çalan şarkının adını gösterir.
-tbdurdur  : Çalan şarkıyı durdurur.
-tbdevam   : Durdurulan şarkıyı devam ettirir.
-tbtemizle : Şarkıyı durdurup tüm sırayı sıfırlar.
-tbgeç     : Sıradaki şarkıya geçer.
-```
