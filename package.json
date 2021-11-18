@@ -1,0 +1,18 @@
+{
+  "name": "tantunibot",
+  "version": "1.0.0",
+  "description": "Official TantuniBot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.2",
+    "infinite-loop": "^0.2.2",
+    "opusscript": "0.0.6",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tb"
+  },
+  "author": "RetriquAz",
+  "license": "ISC"
+}
