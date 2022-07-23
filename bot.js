@@ -55,4 +55,4 @@ fs.readdir("./commands/", (err, files) => {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-bot.login('MTAwMDE0NDU2ODAwMTQ5NTExMQ.GlMz0n.1FHixDYnRE6cqrT9ONOBylIKRhL1blwixMas9s')//process.env.BOT_TOKEN
+bot.login(process.env.BOT_TOKEN)//process.env.BOT_TOKEN
