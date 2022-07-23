@@ -1,0 +1,7 @@
+﻿```
+tb help              -    Komut Listesini görüntüler
+tb oyla İÇERİK       -    Bir oylama başlatır
+tb kurallar @TAG     -    Kuralları ihlal eden birini kibarca uyarabilirsiniz.
+tb laf at            -    Kangal ve Tantuni Bot'un kendi aralarında ufak atışması.
+Version 2.3
+```
